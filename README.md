@@ -15,12 +15,10 @@ Un site web vitrine pour le restaurant **[Les Délices de Gaïa]**, permettant a
 - CSS3  
 
 ## Installation et exécution
-
 1. **Cloner le projet** :  
    git clone https://github.com/[fmbaye-dev]/[site-restaurant].git
-   
-2.Ouvrir le projet :
 
+2. Ouvrir le projet :
  - Ouvre le dossier téléchargé.
  - Double-clique sur le fichier Accueil.html pour l’ouvrir dans ton navigateur.
 
