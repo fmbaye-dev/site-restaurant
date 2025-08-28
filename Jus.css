@@ -55,10 +55,13 @@ nav a:hover{
     transform: translateY(-10px);
 }
 img{
-    height: 250px;
-    width: 250px;
+    height: 200px;
+    width: 200px;
     border-radius: 20px;
     margin-bottom: 20px;
+}
+.selected{
+    color: rgb(88, 117, 88);
 }
 .price{
     background-color: rgb(88, 117, 88);
