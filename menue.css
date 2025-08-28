@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    body{
+        font-family: 'roboto', sans-serif;
+        line-height: 1.6;
+        background: color #f9f9f9;
+        color: #333;
+    }
+    body h1{
+        text-align: center;
+        font-size: 40px;
+    }
+    header{
+        background-color: pink ;
+        color: #fff;
+        padding: 16px 16px; /*espacement exterieure du header */
+    }
+    header h1{
+        font-size: 40px;
+        text-align: center;
+    }
+    nav{
+        margin-top: 16px; /*espacement interieure du nav */
+        text-align: center;
+    }
+    
+    nav a{
+        margin: 0 20px;
+        color: #fff;
+        text-decoration: none;
+    }
+    nav a:hover{
+        color: rgb(88, 117, 88);
+    }
+    .selected{
+        color: rgb(88, 117, 88);
+    }
+    #Well {
+        color: #fff;
+        padding: 18px 20px;
+        text-decoration: none;
+        background-color: pink;
+    }
+    #Well:hover{
+        color: rgb(88, 117, 88);
+    }
+    main .head{
+        background-color: pink;
+    }
+     main h1{
+            background-color: pink ;
+            color: #fff;
+            padding: 16px 16px; /*espacement exterieure */
+            margin-bottom: 18px;
+        }
+    .menue-grid{
+        display: grid; /*disposition en grille*/
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 2rem; /*espacement entre les elements*/
+        padding: 200px; 
+    }
+    .menue-item{
+        background-color: #fff;
+        padding: 1.5rem;
+        box-shadow: 0 4px 15px pink; /*ombre portée*/
+        transition: transform 0.5s ease;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .menue-item:hover{
+        transform: translateY(-10px); /*effet de soulevement au survol*/
+    }
+    img{
+        height: 250px;
+        width: 350px;
+        border-radius: 30px;
+        margin-bottom: 20px;
+    }
+    p{
+        font-size: 25px;
+        margin-top: 20px;
+    }
+    div .a{
+        text-align: center;
+    }
+    #nav{
+        background-color: rgb(88, 117, 88);
+        color: #fff;
+        padding: 14px 20px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        text-decoration: none;
+        border-radius: 10px;
+    }
+    #nav:hover{
+        background-color:rgb(54, 71, 54)
+    }
+
+    #O {
+        text-align: center;
+        background-color: pink;
+        padding: 18px 20px;
+        font-size: 17px;
+    }
+        
