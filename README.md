@@ -24,5 +24,5 @@ Un site web vitrine pour le restaurant **[Les Délices de Gaïa]**, permettant a
 
  Aucun serveur ou configuration supplémentaire n’est nécessaire.
 
- Auteurs
+ Auteur
  - [Fatou Gaye Mbaye]
