@@ -26,3 +26,5 @@ Un site web vitrine pour le restaurant **[Les Délices de Gaïa]**, permettant a
 
  Auteur
  - [Fatou Gaye Mbaye]
+ - Projet académique : site web vitrine
+ - Développement Backend
