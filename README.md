@@ -1,6 +1,6 @@
-# Restaurant [Les Délices de Gaïa]
+# Restaurant Les Délices de Gaïa
 
-Un site web vitrine pour le restaurant **[Les Délices de Gaïa]**, permettant aux clients de découvrir le menu, les spécialités et les informations de contact.  
+Un site web vitrine pour le restaurant **Les Délices de Gaïa**, permettant aux clients de découvrir le menu, les spécialités et les informations de contact.  
 
 ## Fonctionnalités
 -  Page d’accueil avec présentation du restaurant
@@ -16,7 +16,7 @@ Un site web vitrine pour le restaurant **[Les Délices de Gaïa]**, permettant a
 
 ## Installation et exécution
 1. **Cloner le projet** :  
-   git clone https://github.com/[fmbaye-dev]/[site-restaurant].git
+   git clone https://github.com/fmbaye-dev/site-restaurant.git
 
 2. Ouvrir le projet :
  - Ouvre le dossier téléchargé.
@@ -25,6 +25,6 @@ Un site web vitrine pour le restaurant **[Les Délices de Gaïa]**, permettant a
  Aucun serveur ou configuration supplémentaire n’est nécessaire.
 
  Auteur
- - [Fatou Gaye Mbaye]
+ - Fatou Gaye Mbaye
  - Projet académique : site web vitrine
  - Développement Backend
